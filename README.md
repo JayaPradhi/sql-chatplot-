@@ -1,29 +1,19 @@
 # SQL-chatplot-
+🚀 Excited to share my latest project! 🚀
 
-#  Talk to  Database  
+🔍 Project Title: Talking to Databases with Language Models
 
-This is an end to end LLM project based on Google Palm and Langchain. We are building a system that can talk to MySQL database. 
-User asks questions in a natural language and the system generates answers by converting those questions to an SQL query and
-then executing that query on MySQL database. 
+📝 Project Description:
+This project showcases an innovative approach to interacting with MySQL databases using natural language. Leveraging cutting-edge technologies like Google Palm LLM and Langchain, we've built a system that enables users to ask questions in plain English and receive accurate responses by translating those questions into SQL queries and executing them on MySQL databases.
 
-## Project Highlights
+🌟 Project Highlights:
 
-
-Text-based Personal Assistant(chatbot) 
-•	Implemented a text-based personal assistant (chatbot) using LangChain.LLM (Large Language Model) involves integrating language processing capabilities with a conversational interface.
-•	Implement the PaLM2 transformer architecture to interface with an SQL database,facilitated by the SQL database langchain.
-•	Utilize the Hugging Face embedding model 'all-MiniLM-L6-v2' to create embedding vectors that facilitate the identification of word similarities
-•	Develop ChromaDB, a vector database designed to store embedded vectors, which aims to reduce model bias through the application of few-shot learning techniques.
-
-
-- We will build an LLM based question and answer system that will use following,
-  - Google Palm LLM
-  - Hugging face embeddings
-  - Streamlit for UI
-  - Langchain framework
-  - Chromadb as a vector store
-  - Few shot learning
-- In the UI, store manager will ask questions in a natural language and it will produce the answers
+Text-based Personal Assistant (Chatbot): Implemented a text-based personal assistant using LangChain.LLM, integrating language processing capabilities with a conversational interface.
+PaLM2 Transformer Architecture: Utilized the PaLM2 transformer architecture to interface with an SQL database, powered by the Langchain framework.
+Hugging Face Embeddings: Employed the 'all-MiniLM-L6-v2' Hugging Face embedding model to create embedding vectors, enhancing word similarity identification.
+Streamlit for User Interface: Developed a user-friendly UI using Streamlit, allowing store managers to ask questions in natural language and receive instant answers.
+ChromaDB for Vector Storage: Designed ChromaDB, a vector database for storing embedded vectors, aimed at reducing model bias through few-shot learning techniques.
+Excited to showcase the power of language models in bridging the gap between human language and database interactions! 💬🔍
 
 
 ## Installation
