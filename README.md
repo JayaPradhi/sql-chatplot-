@@ -76,7 +76,8 @@ EXPLANATION:
 
    	EXAMPLE QUESTIONS:
 
-    ![Screenshot 2024-04-16 234331](https://github.com/JayaPradhi/sql-chatplot-/assets/127920413/d7761dcc-3b4e-464f-800a-bd8a7a702c98)
+    ![Screenshot 2024-04-16 234611](https://github.com/JayaPradhi/sql-chatplot-/assets/127920413/c59e4529-8e2b-4c0a-a666-242d86c0962f)
+
 
 
 
