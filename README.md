@@ -1,12 +1,10 @@
-# sql-chatplot-
+# SQL-chatplot-
 
 #  Talk to a Database  
 
 This is an end to end LLM project based on Google Palm and Langchain. We are building a system that can talk to MySQL database. 
 User asks questions in a natural language and the system generates answers by converting those questions to an SQL query and
 then executing that query on MySQL database. 
-
-![](atliq_tees.png)
 
 ## Project Highlights
 
@@ -33,7 +31,7 @@ Text-based Personal Assistant(chatbot)
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  https://github.com/JayaPradhi/sql-chatplot-.git
 ```
 2.Navigate to the project directory:
 
@@ -72,7 +70,14 @@ EXPLANATION:
 10.	The answer data is retrieved 
 11.	Finally, the answer is formatted and presented to the store manager through the Streamlit UI
 
+    EXAMPLE QUESTIONS:
+
     ![Screenshot 2024-04-15 233726](https://github.com/JayaPradhi/sql-chatplot-/assets/127920413/55f93876-683d-40bc-b5c5-17b539752674)
+
+   	EXAMPLE QUESTIONS:
+
+    ![Screenshot 2024-04-16 234331](https://github.com/JayaPradhi/sql-chatplot-/assets/127920413/d7761dcc-3b4e-464f-800a-bd8a7a702c98)
+
 
 
   
