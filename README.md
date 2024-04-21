@@ -1,5 +1,4 @@
 # SQL-chatplot-
-🚀 Excited to share my latest project! 🚀
 
 🔍 Project Title: Talking to Databases with Language Models
 
