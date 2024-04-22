@@ -15,7 +15,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 def get_few_shot_db_chain():
-    llm = GoogleGenerativeAI(model="models/text-bison-001", google_api_key='AIzaSyA67Qp5CQpencHHxTbfLJRGL55Nq2jgn0Y',
+    llm = GoogleGenerativeAI(model="models/text-bison-001", google_api_key='API KEY',
                              temperature=0.2)
     db_user = "root"
     db_password = "desires"
