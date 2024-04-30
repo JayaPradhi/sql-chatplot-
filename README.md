@@ -22,17 +22,13 @@ Excited to showcase the power of language models in bridging the gap between hum
 ```bash
   https://github.com/JayaPradhi/sql-chatplot-.git
 ```
-2.Navigate to the project directory:
 
-```bash
-  cd 4_sqldb_
-```
-3. Install the required dependencies using pip:
+2. Install the required dependencies using pip:
 
 ```bash
   pip install -r requirements.txt
 ```
-4.Acquire an api key through makersuite.google.com and put it in .env file
+2.Acquire an api key through makersuite.google.com and put it in .env file
 
 ```bash
   GOOGLE_API_KEY="your_api_key_here"
@@ -61,11 +57,13 @@ EXPLANATION:
 
     EXAMPLE QUESTIONS:
 
-    ![Screenshot 2024-04-15 233726](https://github.com/JayaPradhi/sql-chatplot-/assets/127920413/55f93876-683d-40bc-b5c5-17b539752674)
+    ![image](https://github.com/JayaPradhi/sql-chatplot-/assets/127920413/7a749f3f-1623-4c53-a35c-52a5bb4f3528)
+
 
    	EXAMPLE QUESTIONS:
 
-    ![Screenshot 2024-04-16 234611](https://github.com/JayaPradhi/sql-chatplot-/assets/127920413/c59e4529-8e2b-4c0a-a666-242d86c0962f)
+    ![image](https://github.com/JayaPradhi/sql-chatplot-/assets/127920413/7d589b13-f92f-4be6-beef-e4e4f2958e4f)
+
 
 
 
