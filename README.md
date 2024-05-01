@@ -3,11 +3,11 @@
 🔍 Project Title: Talking to Databases with Language Models
 
 📝 Project Description:
-This project showcases an innovative approach to interacting with MySQL databases using natural language. Leveraging cutting-edge technologies like Google Palm LLM and Langchain, we've built a system that enables users to ask questions in plain English and receive accurate responses by translating those questions into SQL queries and executing them on MySQL databases.
+This project showcases an innovative approach to interacting with MySQL databases using natural language. Leveraging cutting-edge technologies like Google Palm LLM and Langchain,  built a system that enables users to ask questions in plain English and receive accurate responses by translating those questions into SQL queries and executing them on MySQL databases.
 
 🌟 Project Highlights:
 
-Text-based Personal Assistant (Chatbot): Implemented a text-based personal assistant using LangChain.LLM, integrating language processing capabilities with a conversational interface.
+Text-based Personal Assistant (Chatbot): Implemented a text-based personal assistant using LLM, integrating language processing capabilities with a conversational interface.
 PaLM2 Transformer Architecture: Utilized the PaLM2 transformer architecture to interface with an SQL database, powered by the Langchain framework.
 Hugging Face Embeddings: Employed the 'all-MiniLM-L6-v2' Hugging Face embedding model to create embedding vectors, enhancing word similarity identification.
 Streamlit for User Interface: Developed a user-friendly UI using Streamlit, allowing store managers to ask questions in natural language and receive instant answers.
@@ -43,10 +43,10 @@ streamlit run streamlit.py
 ```
 
 EXPLANATION:
-1.	The workflow starts with the Store Manager asking a question in natural language (A).
+1.	The workflow starts with the Store Manager asking a question in natural language .
 2.	The system preprocesses the question  using NLP techniques.
 3.	A question embedding is generated using Hugging Face transformers 
-4.	Contextual information might be incorporated to enhance understanding (optional).
+4.	Contextual information might be incorporated to enhance understanding .
 5.	The question embedding is matched to existing question-SQL template embeddings in Langchain 
 6.	Google PaLM is fine-tuned on a few similar question-SQL template pairs using few-shot learning.
 7.	PaLM then generates a candidate SQL query 
