@@ -38,7 +38,7 @@ Excited to showcase the power of language models in bridging the gap between hum
 
 1. Run the Streamlit app by executing:
 ```bash
-streamlit run main.py
+streamlit run streamlit.py
 
 ```
 
